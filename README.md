@@ -135,7 +135,7 @@ Obviously the layout can be changed as needed for any intended application.
 
 > [!NOTE]
 > The connecting cable between the two boards is not straight-through in this
-> layout.Routing tracks on the prototype board is easier if the two boards are
+> layout. Routing tracks on the prototype board is easier if the two boards are
 > independent of each other in that regard, leaving the cable to handle routing
 > between them.
 
